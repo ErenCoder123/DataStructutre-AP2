@@ -49,4 +49,4 @@ Ordenação: Ordenar a playlist por título ou artista (usando Bubble Sort simpl
 
 Visualização: Listar todas as músicas e "tocar" (exibir) a música atual.
 
-Arquivos:
+Meus agradecimentos ao professor Juliano!
