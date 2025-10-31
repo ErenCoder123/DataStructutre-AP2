@@ -4,6 +4,7 @@ Este projeto acadêmico foca na implementação manual (do zero) de estruturas d
 O principal desafio e requisito do projeto é a proibição estrita do uso de quaisquer bibliotecas de coleções prontas do java.util (como Stack, Queue, LinkedList, ArrayList, etc.). Todo o gerenciamento de memória, ponteiros e nós (Nodes) é feito manualmente.
 
 📝 Nota sobre a Nomenclatura
+
 Para simular um ambiente de desenvolvimento profissional e praticar as convenções da indústria de software, todo o código-fonte do projeto (nomes de classes, métodos e variáveis) foi intencionalmente escrito em inglês (ex: OrderQueue, SongNode, addFirst()).
 
 Esta abordagem ajuda a familiarizar o desenvolvedor com os padrões globais de codificação, tornando o código mais legível e manutenível em um contexto internacional.
