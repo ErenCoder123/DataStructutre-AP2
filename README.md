@@ -6,7 +6,7 @@ O principal desafio e requisito do projeto é a proibição estrita do uso de qu
 📝 Nota sobre a Nomenclatura
 Para simular um ambiente de desenvolvimento profissional e praticar as convenções da indústria de software, todo o código-fonte do projeto (nomes de classes, métodos e variáveis) foi intencionalmente escrito em inglês (ex: OrderQueue, SongNode, addFirst()).
 
-Esta abordagem ajuda a familiarizar o desenvolvedor com os padrões globais de codificação, tornando o código mais legível e manutenível em um contexto internacional. A documentação (como este README) permanece em português para descrever os requisitos.
+Esta abordagem ajuda a familiarizar o desenvolvedor com os padrões globais de codificação, tornando o código mais legível e manutenível em um contexto internacional.
 
 📂 Estrutura do Projeto
 O trabalho é dividido em duas partes principais e independentes:
